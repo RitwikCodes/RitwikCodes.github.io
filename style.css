@@ -37,6 +37,17 @@ body {
   margin-bottom: 4rem;
 }
 
+.brand-logo {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 1rem;
+  border: 2px solid #dbeafe;
+  box-shadow: 0 8px 24px rgba(2, 132, 199, 0.15);
+}
+
 .eyebrow {
   font-size: 0.78rem;
   font-weight: 700;
